@@ -1,5 +1,4 @@
-# NAME : KIRUBANITHI.S
-# REG No. : 212223220047
+
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
